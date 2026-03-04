@@ -1,0 +1,154 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "title": "Classic Buttermilk Pancakes",
+    "description": "Fluffy, golden pancakes made with real buttermilk. Perfect for a lazy Sunday morning with maple syrup and fresh berries.",
+    "category": "Breakfast",
+    "cookTime": 20,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      { "amount": "2", "unit": "cups", "name": "all-purpose flour" },
+      { "amount": "2", "unit": "tbsp", "name": "sugar" },
+      { "amount": "1", "unit": "tsp", "name": "baking powder" },
+      { "amount": "1", "unit": "tsp", "name": "baking soda" },
+      { "amount": "0.5", "unit": "tsp", "name": "salt" },
+      { "amount": "2", "unit": "cups", "name": "buttermilk" },
+      { "amount": "2", "unit": "", "name": "large eggs" },
+      { "amount": "3", "unit": "tbsp", "name": "melted butter" }
+    ],
+    "steps": [
+      "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+      "In a separate bowl, whisk together buttermilk, eggs, and melted butter.",
+      "Pour wet ingredients into dry ingredients and stir until just combined — a few lumps are fine.",
+      "Heat a non-stick griddle or skillet over medium heat and lightly grease with butter.",
+      "Pour 1/4 cup batter per pancake onto the griddle. Cook until bubbles form on the surface and edges look set, about 2–3 minutes.",
+      "Flip and cook for another 1–2 minutes until golden. Serve immediately."
+    ],
+    "createdAt": "2026-01-01T08:00:00.000Z",
+    "updatedAt": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+    "title": "Mediterranean Quinoa Salad",
+    "description": "A bright, protein-packed salad with quinoa, crisp vegetables, kalamata olives, and tangy feta. Ready in 30 minutes.",
+    "category": "Lunch",
+    "cookTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      { "amount": "1", "unit": "cup", "name": "quinoa (uncooked)" },
+      { "amount": "2", "unit": "cups", "name": "water" },
+      { "amount": "1", "unit": "", "name": "English cucumber, diced" },
+      { "amount": "1", "unit": "cup", "name": "cherry tomatoes, halved" },
+      { "amount": "0.5", "unit": "cup", "name": "kalamata olives, sliced" },
+      { "amount": "100", "unit": "g", "name": "feta cheese, crumbled" },
+      { "amount": "3", "unit": "tbsp", "name": "extra virgin olive oil" },
+      { "amount": "2", "unit": "tbsp", "name": "lemon juice" },
+      { "amount": "1", "unit": "tsp", "name": "dried oregano" },
+      { "amount": "", "unit": "", "name": "salt and pepper to taste" }
+    ],
+    "steps": [
+      "Rinse quinoa under cold water. Combine with water in a saucepan, bring to a boil, then reduce heat and simmer for 15 minutes until absorbed.",
+      "Fluff quinoa with a fork and spread on a baking sheet to cool for 10 minutes.",
+      "In a large bowl, combine cucumber, cherry tomatoes, olives, and feta.",
+      "Whisk together olive oil, lemon juice, and oregano to make the dressing.",
+      "Add cooled quinoa to the bowl, pour over the dressing, and toss to combine.",
+      "Season with salt and pepper, and serve at room temperature or chilled."
+    ],
+    "createdAt": "2026-01-02T12:00:00.000Z",
+    "updatedAt": "2026-01-02T12:00:00.000Z"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+    "title": "Slow-Braised Beef Short Ribs",
+    "description": "Fall-off-the-bone short ribs braised in red wine and aromatics. A weekend showstopper that practically makes itself.",
+    "category": "Dinner",
+    "cookTime": 210,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      { "amount": "1.5", "unit": "kg", "name": "bone-in beef short ribs" },
+      { "amount": "2", "unit": "tbsp", "name": "olive oil" },
+      { "amount": "1", "unit": "", "name": "onion, roughly chopped" },
+      { "amount": "3", "unit": "", "name": "garlic cloves, smashed" },
+      { "amount": "2", "unit": "", "name": "carrots, roughly chopped" },
+      { "amount": "2", "unit": "", "name": "celery stalks, roughly chopped" },
+      { "amount": "2", "unit": "tbsp", "name": "tomato paste" },
+      { "amount": "1.5", "unit": "cups", "name": "dry red wine" },
+      { "amount": "2", "unit": "cups", "name": "beef stock" },
+      { "amount": "2", "unit": "", "name": "fresh thyme sprigs" },
+      { "amount": "1", "unit": "", "name": "bay leaf" },
+      { "amount": "", "unit": "", "name": "salt and pepper" }
+    ],
+    "steps": [
+      "Preheat oven to 160°C (325°F). Season short ribs generously with salt and pepper.",
+      "Heat olive oil in a large Dutch oven over high heat. Sear ribs on all sides until deeply browned, about 3–4 minutes per side. Remove and set aside.",
+      "Reduce heat to medium. Add onion, carrots, and celery to the pot and cook for 5 minutes until softened.",
+      "Add garlic and tomato paste, cook for 1 minute.",
+      "Pour in red wine and scrape up any browned bits. Simmer for 5 minutes.",
+      "Add beef stock, thyme, and bay leaf. Return ribs to the pot — liquid should come halfway up the ribs.",
+      "Bring to a simmer, then cover and transfer to the oven. Braise for 2.5–3 hours until ribs are tender and meat pulls from the bone.",
+      "Remove ribs and strain the braising liquid. Skim fat and reduce on the stovetop if desired. Serve ribs with the sauce."
+    ],
+    "createdAt": "2026-01-03T18:00:00.000Z",
+    "updatedAt": "2026-01-03T18:00:00.000Z"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+    "title": "Chocolate Lava Cakes",
+    "description": "Decadent individual chocolate cakes with a gooey molten centre. Only 6 ingredients and ready in under 25 minutes.",
+    "category": "Dessert",
+    "cookTime": 22,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      { "amount": "200", "unit": "g", "name": "dark chocolate (70%), chopped" },
+      { "amount": "100", "unit": "g", "name": "unsalted butter, cubed" },
+      { "amount": "3", "unit": "", "name": "large eggs" },
+      { "amount": "3", "unit": "", "name": "egg yolks" },
+      { "amount": "80", "unit": "g", "name": "caster sugar" },
+      { "amount": "40", "unit": "g", "name": "plain flour" },
+      { "amount": "", "unit": "", "name": "butter and cocoa powder for ramekins" }
+    ],
+    "steps": [
+      "Preheat oven to 200°C (400°F). Butter four 150 ml ramekins and dust with cocoa powder.",
+      "Melt chocolate and butter together in a heatproof bowl over a pan of simmering water, stirring until smooth. Remove from heat.",
+      "In a large bowl, whisk together eggs, egg yolks, and sugar until pale and thick, about 2 minutes.",
+      "Fold the chocolate mixture into the egg mixture until just combined, then fold in the flour.",
+      "Divide the batter evenly among the prepared ramekins.",
+      "Bake for 10–12 minutes until the edges are set but the centres are still jiggly.",
+      "Run a knife around the edge of each cake and invert onto a serving plate. Serve immediately with vanilla ice cream or cream."
+    ],
+    "createdAt": "2026-01-04T20:00:00.000Z",
+    "updatedAt": "2026-01-04T20:00:00.000Z"
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+    "title": "Spicy Roasted Chickpea Trail Mix",
+    "description": "Crunchy oven-roasted chickpeas seasoned with smoked paprika and cumin. High-protein, vegan, and infinitely snackable.",
+    "category": "Snack",
+    "cookTime": 35,
+    "difficulty": "Easy",
+    "servings": 6,
+    "ingredients": [
+      { "amount": "2", "unit": "cans (400g each)", "name": "chickpeas, drained and rinsed" },
+      { "amount": "2", "unit": "tbsp", "name": "olive oil" },
+      { "amount": "1.5", "unit": "tsp", "name": "smoked paprika" },
+      { "amount": "1", "unit": "tsp", "name": "ground cumin" },
+      { "amount": "0.5", "unit": "tsp", "name": "cayenne pepper" },
+      { "amount": "0.5", "unit": "tsp", "name": "garlic powder" },
+      { "amount": "1", "unit": "tsp", "name": "sea salt" }
+    ],
+    "steps": [
+      "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+      "Pat chickpeas thoroughly dry with paper towels — this is key for crunchiness.",
+      "In a bowl, toss dried chickpeas with olive oil, smoked paprika, cumin, cayenne, garlic powder, and salt.",
+      "Spread in a single layer on the prepared baking sheet.",
+      "Roast for 25–30 minutes, shaking the pan halfway through, until golden and crisp.",
+      "Let cool completely on the tray — they will continue to crisp as they cool. Store in an airtight container."
+    ],
+    "createdAt": "2026-01-05T15:00:00.000Z",
+    "updatedAt": "2026-01-05T15:00:00.000Z"
+  }
+]
