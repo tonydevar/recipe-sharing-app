@@ -1,0 +1,35 @@
+.form-page {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.form-page__back {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.form-page__back:hover {
+  color: var(--color-primary);
+}
+
+.form-page__title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: var(--color-text);
+}
+
+.form-page__status {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--color-text-muted);
+}
+
+.form-page__status--notfound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}

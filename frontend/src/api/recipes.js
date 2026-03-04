@@ -3,6 +3,10 @@ const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001'
 async function handleResponse(res) {
   if (!res.ok) {
     const body = await res.json().catch(() => ({}))
+    // express-validator returns { errors: [{msg, ...}] }; pass array as JSON string
+    if (body.errors && Array.isArray(body.errors)) {
+      throw new Error(JSON.stringify(body.errors))
+    }
     const message = body.error || body.message || `HTTP ${res.status}`
     throw new Error(message)
   }
