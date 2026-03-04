@@ -1,0 +1,36 @@
+.ingredients-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ingredients-list__item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+  font-size: 0.95rem;
+}
+
+.ingredients-list__item:last-child {
+  border-bottom: none;
+}
+
+.ingredients-list__amount {
+  font-weight: 700;
+  color: var(--color-primary);
+  min-width: 2.5rem;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.ingredients-list__unit {
+  color: var(--color-text-muted);
+  flex-shrink: 0;
+}
+
+.ingredients-list__name {
+  color: var(--color-text);
+}
