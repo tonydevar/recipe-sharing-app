@@ -62,7 +62,7 @@ router.get('/', (req, res) => {
     recipes = recipes.filter(
       (r) =>
         r.title.toLowerCase().includes(term) ||
-        (r.description && r.description.toLowerCase().includes(term))
+        r.ingredients.some((i) => i.name.toLowerCase().includes(term))
     );
   }
 
